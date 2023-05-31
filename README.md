@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Languages
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/sfranzen)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/sfranzen)
 <!--
 **sfranzen/sfranzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
